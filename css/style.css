@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 1cm;
+    text-align: justify;
+}
+
+.re {
+    width: 100%;
+    height: 46px;
+    background: rgba(99, 60, 31, 1);
+}
+
+.img {
+    width: 151px;
+    height: auto;
+    margin-top: 0.5em;
+}
+
+.receta {
+    font-family: Barlow, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    color: rgba(128, 114, 114, 1);
+    margin-top: 1em;
+}
+
+.aguacate {
+    width: 100%;
+    max-width: 1095px;
+    height: auto;
+    margin-top: 1em;
+}
+
+.producto {
+    font-family: Inter, sans-serif;
+    font-size: 24px;
+    line-height: 1.5;
+    margin-top: 1em;
+}
+
+.line2, .line3 {
+    width: 100%;
+    border-top: 3px solid rgba(0, 0, 0, 1);
+    margin-top: 1em;
+}
+
+.ingredientes, .preparacion {
+    font-family: Barlow, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: rgba(128, 114, 114, 1);
+    margin-top: 1em;
+}
+
+.items, .item2 {
+    font-family: Inter, sans-serif;
+    font-size: 24px;
+    line-height: 1.5;
+    margin-top: 1em;
+}
+
+.final {
+    width: 100%;
+    height: 122px;
+    background: rgba(99, 60, 31, 1);
+    margin-top: 1em;
+}
+
